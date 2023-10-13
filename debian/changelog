@@ -1,6 +1,9 @@
-adaptation-droidian-zahedan (0.0.0+git20230925103430.4c2b01b.release+git20231012211520.4fe3f79.release) trixie; urgency=medium
+adaptation-droidian-zahedan (0.0.0+git20231013120255.fb73201.release) trixie; urgency=medium
 
   * initial commit
+  * vendor-overlay: fix vendor overlay for mediatek
+  * pulse: add droid module override with hw volume quirk
+  * phosh: set scaling to 3
 
- -- Bardia Moshiri <fakeshell@bardia.tech>  Thu, 12 Oct 2023 21:15:20 -0400
+ -- Bardia Moshiri <fakeshell@bardia.tech>  Fri, 13 Oct 2023 12:02:55 -0400
 
