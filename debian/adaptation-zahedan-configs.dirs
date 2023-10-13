@@ -1,0 +1,10 @@
+/etc/udev/rules.d
+/etc/apt/sources.list.d
+/etc/phosh
+/usr/bin
+/usr/share/glib-2.0/schemas
+/usr/share/keyrings/
+/usr/lib/droidian/device
+/usr/lib/droid-vendor-overlay
+/var/lib/bluetooth
+/var/lib/lxc/android
