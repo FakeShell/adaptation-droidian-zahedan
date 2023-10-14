@@ -1,5 +1,7 @@
 #!/bin/bash
 
+depmod -a
+
 modules=(
 trace_mmstat
 kheaders
